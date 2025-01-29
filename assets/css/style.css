@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  list-style: 1.6;
+  scroll-behavior: smooth;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #03346E;
+  color: #E2E2B6;
+  padding: 10px 20px;
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  border-radius: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  width: 99%;
+  max-width: 1290px;
+}
+
+.welcome-text {
+  font-size: 180px;
+  font-family: 'Rochester', cursive;
+  font-weight: bold;
+  color: #03346E;
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.welcome-info {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  color: #03346E;
+  margin-top: 50px;
+}
+
+.gwa-text {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  color: #03346E;
+  margin-top: 40px;
+  font-weight: 500;
+}
+
+.start-button {
+  font-size: 24px;
+  color: #03346E;
+  background-color: #E2E2B6;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.9s;
+}
+
+.start-button:hover {
+  background-color: #5192d7;
+}
+
+.school-title {
+  font-size: bold;
+  font-weight: 5px;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #E2E2B6;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.nav-links a:hover {
+  color: #6EACDA;
+}
+
+.main-section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  font-size: 32px;
+  text-align: center;
+}
+
+#section-1 {
+  background: url('../img/bg-img1.jpg') no-repeat center center/cover;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: aqua;
+}
+
+#section-2 {
+  background: url('../img/bg-img2.jpg') no-repeat center center/cover;
+  padding: 40px;
+}
+
+.about-container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.about-title {
+  font-size: 100px;
+  font-family: 'Rochester', cursive;
+  font-weight: bold;
+  color: #03346E;
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.about-left, .about-right {
+  font-size: 18px;
+  width: 48%;
+  color: #03346E;
+  background-color: #E2E2B6;
+  line-height: 2.0;
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  border: 5px solid #6EACDA;
+}
+
+.main-section.scrolled {
+  background-color: #67c0ff;
+  background-image: none;
+  color: #fff;
+  text-shadow: none;
+}
+
+footer {
+  background-color: #03346E;
+  color: #E2E2B6;
+  text-align: center;
+  padding: 20px 10px;
+  font-size: 16px;
+  position: relative;
+}
+
+.footer-info {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
