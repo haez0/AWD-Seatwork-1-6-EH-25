@@ -15,7 +15,7 @@ body {
   padding-top: 50px;
   margin-bottom: 50px;
   background-size: auto;
-  background: url('../../../assets/img/bg-img1.jpg') no-repeat center center/cover;
+  background: url('../../../../assets/img/bg-img1.jpg') no-repeat center center/cover;
 }
 
 .container {
