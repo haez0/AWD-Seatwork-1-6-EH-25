@@ -2,18 +2,6 @@
 
 Grade Management System
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="/index.html">Main </a>
-    </li>
-    <li>
-      <a href="/pages/page1/index.html">GWA Calculator</a>
-    </li>
-  </ol>
-</details>
-
 ## My WakaTime Stats
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@haez&layout=compact)
