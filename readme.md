@@ -1,31 +1,6 @@
-#Grade Management System
+# SEATWORK 1 - Grade Management System
 
-<a name="readme-top"/>
-
-<br/>
-
-<br />
-<div align="center">
-  <a href="https://github.com/zyx-0314/">
-    <img src="" alt="" width="130" height="100">
-  </a>
-
-  <h3 align="center">Grade Management System
-</h3>
-</div>
-<div align="center">
-  Calculate your General Weighted Average (GWA) instantly by entering your name and five subject grades. 
-  The GWA Calculator quickly processes your input and displays your overall academic performance.
-</div>
-
-<br />
-
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/Github-Git-Guide)
-
----
-
-<br />
-<br />
+Grade Management System
 
 <details>
   <summary>Table of Contents</summary>
@@ -38,3 +13,21 @@
     </li>
   </ol>
 </details>
+
+## My WakaTime Stats
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@haez&layout=compact)
+
+## Features
+- Feature 1
+- Feature 2
+
+## Installation
+Instructions on how to install the project.
+
+## Usage
+Enter your name and five subject grades in the designated fields to 
+access the GWA Calculator. Once the necessary information has been entered, 
+submit the form to have your General Weighted Average (GWA) determined 
+automatically. You will be able to see your overall academic performance 
+as soon as the result is displayed.
