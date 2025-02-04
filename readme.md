@@ -24,7 +24,7 @@ Grade Management System
 
 ## Installation
 The project uses live link for users to instantly use the website.
-Link: https://haez0.github.io/AWD-Seatwork-1-6-EH-25/
+<br> Link: https://haez0.github.io/AWD-Seatwork-1-6-EH-25/
 
 ## Usage
 Enter your name and five subject grades in the designated fields to 
