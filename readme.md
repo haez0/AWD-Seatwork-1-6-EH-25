@@ -19,11 +19,12 @@ Grade Management System
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@haez&layout=compact)
 
 ## Features
-- Feature 1
-- Feature 2
+- By inputing your name and your 5 days, click the 'Calculate GWA'. Your GWA of the 5 grades you entered are now calculated
+- If user didnt input their name and grades, a pop notification saying 'Please enter valid grades.' will show up.
 
 ## Installation
-Instructions on how to install the project.
+The project uses live link for users to instantly use the website.
+Link: https://haez0.github.io/AWD-Seatwork-1-6-EH-25/
 
 ## Usage
 Enter your name and five subject grades in the designated fields to 
