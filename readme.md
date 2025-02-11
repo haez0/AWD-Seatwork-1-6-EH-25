@@ -50,7 +50,7 @@
 <details>
   <summary>Features and Usage</summary>
 <div>
-  Features:
+  <h3> Features: </h3>
 <li> 
   User Input – Students can input their name and five subject grades into designated fields.
 </li>
@@ -62,6 +62,20 @@
 <li> 
   Instant Results – Once the user submits the form, the calculated GWA is displayed immediately.
 </li>
+
+  <h3> Usage: </h3>
+
+<ol> 
+  Enter your name and five subject grades into the input fields.
+</ol>
+
+<ol> 
+  Click the submit button to process the data.
+</ol>
+
+<ol> 
+  The system will automatically compute your GWA and display the result.
+</ol>
 
 </div>
 </details>
