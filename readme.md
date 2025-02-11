@@ -1,22 +1,41 @@
-# SEATWORK 1 - Grade Management System
+# Title
 
-Grade Management System
+<a name="readme-top"/>
 
-## My WakaTime Stats
+<br/>
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@haez&layout=compact)
+<br />
+<div align="center">
+  <a href="https://github.com/haez0/">
+  <!-- Logo or Image -->
+    <img src="" alt="" width="130" height="100">
+  </a>
 
-## Features
-- By inputing your name and your 5 days, click the 'Calculate GWA'. Your GWA of the 5 grades you entered are now calculated
-- If user didnt input their name and grades, a pop notification saying 'Please enter valid grades.' will show up.
+  <h3 align="center">SEATWORK 1 - Grade Management System</h3>
+</div>
+<div align="center">
+  SEATWORK 1 - Grade Management System is
+</div>
 
-## Installation
-The project uses live link for users to instantly use the website.
-<br> Link: https://haez0.github.io/AWD-Seatwork-1-6-EH-25/
+<br />
 
-## Usage
-Enter your name and five subject grades in the designated fields to 
-access the GWA Calculator. Once the necessary information has been entered, 
-submit the form to have your General Weighted Average (GWA) determined 
-automatically. You will be able to see your overall academic performance 
-as soon as the result is displayed.
+![](https://visit-counter.vercel.app/counter.png?page=haez0/Github-Git-Guide)
+
+---
+
+<br />
+<br />
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="./index.html">Main page </a>
+    </li>
+    <li>
+      <a href="./pages/page1/index.html">Multiple Layer</a>
+      <ol>
+      </ol>
+    </li>
+  </ol>
+</details>
