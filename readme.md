@@ -1,87 +1,3 @@
-# Grade Management System
-
-<a name="readme-top"/>
-
-<br/>
-
-<br />
-<div align="center">
-  <a href="https://github.com/haez0/">
-  <img src="/assets/img/hr_logo.png"
-    <img src="" alt="" width="130" height="100">
-  </a>
-
-  <h3 align="center">SEATWORK 1 - Grade Management System</h3>
-</div>
-<div align="center">
-  The GWA Calculator is a simple yet effective web-based tool designed to 
-  help students quickly determine their General Weighted Average (GWA). 
-  By entering their name and five subject grades, users can instantly calculate their academic performance.
-</div>
-
-<br />
-
-![](https://visit-counter.vercel.app/counter.png?page=haez0/Github-Git-Guide)
-
----
-
-<br />
-<br />
-
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="./index.html">Main page </a>
-    </li>
-    <li>
-      <a href="./pages/page1/index.html">Multiple Layer</a>
-      <ol>
-      </ol>
-    </li>
-  </ol>
-</details>
-
----
-
-<br />
-<br />
-
-<details>
-  <summary>Features and Usage</summary>
-<div>
-  <h3> Features: </h3>
-<li> 
-  User Input – Students can input their name and five subject grades into designated fields.
-</li>
-
-<li> 
-  Automatic Calculation – The system processes the input and computes the GWA without requiring manual effort.
-</li>
-
-<li> 
-  Instant Results – Once the user submits the form, the calculated GWA is displayed immediately.
-</li>
-
-  <h3> Usage: </h3>
-
-<ol> 
-  Enter your name and five subject grades into the input fields.
-</ol>
-
-<ol> 
-  Click the submit button to process the data.
-</ol>
-
-<ol> 
-  The system will automatically compute your GWA and display the result.
-</ol>
-
-</div>
-</details>
-
-
-
 <a name="readme-top">
 
 <br/>
@@ -124,10 +40,7 @@
     </li>
     <li>
       <a href="./pages/page1/index.html">Multiple Layer</a> 
-      <ol>
-      </ol>
     </li>
-  </ol>
 </details>
 
 ---
@@ -136,20 +49,14 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The GWA Calculator is a simple yet effective web-based tool designed to help students quickly determine their General Weighted Average (GWA). By entering their name and five subject grades, users can instantly calculate their academic performance.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- User Input Section: Fields for entering the student's name and five subject grades.
+- Calculation Mechanism: An automated formula that computes the GWA based on the provided grades.
+- Result Display: Displays the calculated GWA clearly on the screen.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -158,14 +65,12 @@ Guiding Question:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
-1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
-2. Do not rename any .html files; always use `index.html` as the filename.
-3. Place Files in their respective folders.
-4. All file naming are in camel case.
-   - Camel case is naming format where there is no white space in separation of each words, the first word is in all lower case while the succeding words first letter are in upper followed by lower cased letters.
-   - ex.: buttonAnimatedStyle.css
-5. Use only `External CSS`.
-6. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
+1. Ensure all input fields (name and five grades) are filled before submission.
+2. Enter valid numerical values for grades (e.g., 0-100 or based on the grading system).
+3. Avoid using special characters in the name field.
+4. Do not refresh the page after submitting to prevent data loss.
+5. The calculator does not store any entered data for privacy reasons.
+6. Ensure JavaScript is enabled in your browser for proper functionality.
 7. File Structure to follow below.
 
 ```
@@ -174,16 +79,16 @@ WD-ProjectName
 |   └─ css
 |   |   └─ style.css
 |   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|   |   └─ bg-img1.jpg
+|   |   └─ bg-img2.jpg
+|   |   └─ hr.logo.png
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
+|  └─ page1
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
-|     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
 |     |  └─ js
 |     |     └─ script.js
 |     └─ index.html
@@ -196,4 +101,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| GWA Calculator | Automatically calculates a student's General Weighted Average (GWA) based on five subject grades. | [GeeksforGeeks](https://www.geeksforgeeks.org/design-a-student-grade-calculator-using-javascript/) |
