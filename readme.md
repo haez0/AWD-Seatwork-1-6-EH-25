@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/haez0/">
-  <img src="./assets/img/hr_logo.png"
+  <img src="/assets/img/hr_logo.png"
     <img src="" alt="" width="130" height="100">
   </a>
 
