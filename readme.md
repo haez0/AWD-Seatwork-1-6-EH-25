@@ -39,7 +39,7 @@
       <a href="./index.html">Main page </a>
     </li>
     <li>
-      <a href="./pages/page1/index.html">Multiple Layer</a> 
+      <a href="./pages/page1/index.html">Calculator page</a> 
     </li>
 </details>
 
@@ -102,3 +102,9 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | GWA Calculator | Automatically calculates a student's General Weighted Average (GWA) based on five subject grades. | [GeeksforGeeks](https://www.geeksforgeeks.org/design-a-student-grade-calculator-using-javascript/) |
+| GWA Calculator | Automatically calculates a student's General Weighted Average (GWA) based on five subject grades. | [Stack Overflow - Media Queries](https://stackoverflow.com/questions/13847755/css-media-queries-for-screen-sizes) |
+| GWA Calculator | Automatically calculates a student's General Weighted Average (GWA) based on five subject grades. | [W3Schools - CSS Hover Transition](https://www.w3schools.com/howto/howto_css_transition_hover.asp) |
+| GWA Calculator | Automatically calculates a student's General Weighted Average (GWA) based on five subject grades. | [Stack Overflow - Grading Calculator](https://stackoverflow.com/questions/67830039/making-a-grading-calculator-using-javascript) |
+| GWA Calculator | Automatically calculates a student's General Weighted Average (GWA) based on five subject grades. | [W3Resource - Conditional Statements](https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercise-6.php) |
+| GWA Calculator | Automatically calculates a student's General Weighted Average (GWA) based on five subject grades. | [Stack Overflow - GitHub Pages Paths](https://stackoverflow.com/questions/16316311/github-pages-and-relative-paths) |
+| GWA Calculator | Automatically calculates a student's General Weighted Average (GWA) based on five subject grades. | [W3Schools - HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp) |
